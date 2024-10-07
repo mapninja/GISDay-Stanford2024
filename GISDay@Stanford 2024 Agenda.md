@@ -30,7 +30,7 @@ To ground this discussion in something more concrete, we will show live demos of
  - Planet.com Planetscope & SkySat access. 
  - AIS Data access from SPIRE - Global Shipping Trajectories and Metadata
  - Using Google Earth Engine with your own Google Cloud Project for access to the Earth Engine Python API and more
- - Geocoding Services with [locator.stanford.edu](https://locator.stanford.edu/)
+ - High throughput Geocoding Services with [locator.stanford.edu](https://locator.stanford.edu/)
 
 ---
 
