@@ -61,10 +61,9 @@ To ground this discussion in something more concrete, we will show live demos of
 
 ### **3:50 PM – 4:30 PM**  
 **Applied Keynote: Cameron Kruse, [Earth Genome](https://www.earthgenome.org/)**  
-*"Applications of Foundational Models in Geospatial Data Science for Creating Services"*  
+***"Applications of Foundational Models in Geospatial Data Science for Creating Services"***  
 - Discussion on foundational models and their role in advancing geospatial data science applications and services.  
 - Insights into Earth Genome’s work and the broader implications for sustainability and data services.  
-**(Includes 5 minutes for questions and transition time)**
 
 ---
 
