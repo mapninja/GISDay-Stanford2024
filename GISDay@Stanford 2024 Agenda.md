@@ -27,9 +27,10 @@ To ground this discussion in something more concrete, we will show live demos of
 **Stace Maples, Head of The Stanford Geospatial Center**  
 ***"Food for Thought: Stanford Geospatial Center resources for your ML/AI research and projects"***  
 - Updates on support and services provided by the Stanford Geospatial Center.  
- - Planet.com SkySat Grants for Students
- - AIS Data access from 
+ - Planet.com Planetscope & SkySat access. 
+ - AIS Data access from SPIRE - Global Shipping Trajectories and Metadata
  - Using Google Earth Engine with your own Google Cloud Project for access to the Earth Engine Python API and more
+ - Geocoding Services with [locator.stanford.edu](https://locator.stanford.edu/)
 
 ---
 
