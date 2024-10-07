@@ -54,12 +54,13 @@ To ground this discussion in something more concrete, we will show live demos of
 **DRMC Update: Evan Thornberry, Head & Curator of the David Rumsey Map Center**    
 ***"Looking ahead with legacy collections: How computer vision and AI are helping unlock the hidden knowledge within Stanford’s map collections."***  
 - An overview of two AI projects: [Machines Reading Maps](https://machines-reading-maps.github.io/) & [Map Reader](https://github.com/maps-as-data/MapReader)  
-- A description of the current state of using them on [davidrumsey.com](https://davidrumsey.com), and information about how to stay in the loop and involved.
+- A description of the current state of using them on [davidrumsey.com](https://davidrumsey.com),  
+- How to stay in the loop and involved.
 
 ---
 
 ### **3:50 PM – 4:30 PM**  
-**Applied Keynote: Cameron Kruse, Earth Genome**  
+**Applied Keynote: Cameron Kruse, [Earth Genome](https://www.earthgenome.org/)**  
 *"Applications of Foundational Models in Geospatial Data Science for Creating Services"*  
 - Discussion on foundational models and their role in advancing geospatial data science applications and services.  
 - Insights into Earth Genome’s work and the broader implications for sustainability and data services.  
