@@ -1,5 +1,5 @@
 # GISDay@Stanford 2024
-https://davidrumsey.com## (Tentative) Agenda & Schedule
+## (Tentative) Agenda & Schedule
 
 ### **1:30 PM – 1:35 PM**  
 **Opening Remarks**  
@@ -9,7 +9,7 @@ https://davidrumsey.com## (Tentative) Agenda & Schedule
 
 ### **1:35 PM – 2:30 PM**  
 **Learning Keynote: Steve Citron-Pousty**  
-*"Quick Intro to AI/ML Vector Data for Geospatial Folks"*  
+***"Quick Intro to AI/ML Vector Data for Geospatial Folks"***  
 - Explore vector data management in AI/ML and its relevance to geospatial data work.  
 - Live demos to ground the discussion in real-world applications.  
 
@@ -29,7 +29,7 @@ To ground this discussion in something more concrete, we will show live demos of
 - Updates on support and services provided by the Stanford Geospatial Center.  
  - Planet.com SkySat Grants for Students
  - AIS Data access from 
- - Using Google Earth Engine with your own Google Cloud Project for acces to the Python API
+ - Using Google Earth Engine with your own Google Cloud Project for access to the Earth Engine Python API and more
 
 ---
 
@@ -46,7 +46,6 @@ To ground this discussion in something more concrete, we will show live demos of
 - **TBA Lightning Talk 3**  
 - **TBA Lightning Talk 4**  
 - **TBA Lightning Talk 5**
-
 
 ---
 
