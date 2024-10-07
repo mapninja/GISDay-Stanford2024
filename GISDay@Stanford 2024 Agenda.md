@@ -67,10 +67,10 @@ To ground this discussion in something more concrete, we will show live demos of
 
 ---
 
-### **4:30 PM – 4:35 PM**  
+### **4:30 PM – 4:45 PM**  
 **Closing Remarks**  
-- Wrap-up and final thoughts for the event.
+- Wrap-up, final thoughts and grab some swag.
 
-### **4:35 PM – ??? PM**  
+### **4:455 PM – ??? PM**  
 **Join us at The Treehouse at Tressider for Mappy Hour!!**  
 
