@@ -8,7 +8,7 @@
 ---
 
 ### **1:35 PM – 2:30 PM**  
-**Learning Keynote: Steve Citron-Pousty**  
+**Learning Keynote: Steve Citron-Pousty - Founder, [Tech Raven Consulting](https://www.techravenconsulting.com/)**  
 ***"Quick Intro to AI/ML Vector Data for Geospatial Folks"***  
 
 ![alt text](images/thesteve02.jpeg)
@@ -29,11 +29,16 @@ To ground this discussion in something more concrete, we will show live demos of
 ### **2:30 PM – 2:50 PM**  
 **Stace Maples, Head of The Stanford Geospatial Center**  
 ***"Food for Thought: Stanford Geospatial Center resources for your ML/AI research and projects"***  
+
+![alt text](images/stacemaples.png)
+
 - Updates on support and services provided by the Stanford Geospatial Center.  
  - Planet.com Planetscope & SkySat access. 
  - AIS Data access from SPIRE - Global Shipping Trajectories and Metadata
  - Using Google Earth Engine with your own Google Cloud Project for access to the Earth Engine Python API and more
  - High throughput Geocoding Services with [locator.stanford.edu](https://locator.stanford.edu/)
+
+![alt text](images/nomads.png)
 
 ---
 
