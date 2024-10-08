@@ -87,6 +87,6 @@ Cameron is a Creative Technologist with Earth Genome and a National Geographic E
 **Closing Remarks**  
 - Wrap-up, final thoughts and grab some swag.
 
-### **4:455 PM – ??? PM**  
+### **4:45 PM – ??? PM**  
 **Join us at The Treehouse at Tressider for Mappy Hour!!**  
 
