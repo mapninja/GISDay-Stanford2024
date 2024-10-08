@@ -8,7 +8,7 @@ The Stanford Geospatial Center will be hosting GISDay@Stanford, Wednesday, Novem
 
 We invite you to submit your ideas, for GISDay@Stanford. We want to hear how you are using AI/ML methods in leveraging the WHERE in your research.
 
-If you’ve got something to say about how *spatial* your research is, let us know, by filling out this form, and we’ll get back to you soon!  
+If you’ve got something to say about how ***spatial*** your research is, let us know, by filling out this form, and we’ll get back to you soon!  
 
 ### [GISDay@Stanford Speaker Form](https://forms.gle/yWdvDRzGjV2zCrWC7)  
 
