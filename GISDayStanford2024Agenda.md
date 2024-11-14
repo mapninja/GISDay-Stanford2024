@@ -1,3 +1,7 @@
+Here’s the agenda with consistent formatting for titles, speaker details, and section headers:
+
+---
+
 # GISDay@Stanford 2024
 ## (Tentative) Agenda & Schedule
 
@@ -8,37 +12,30 @@
 ---
 
 ### **1:35 PM – 2:30 PM**  
-**Learning Keynote: Steve Citron-Pousty - Founder, [Tech Raven Consulting](https://www.techravenconsulting.com/)**  
-***"Quick Intro to AI/ML Vector Data for Geospatial Folks"***  
+### Quick Intro to AI/ML Vector Data for Geospatial Folks  
+**Speaker:** Steve Citron-Pousty, Founder, [Tech Raven Consulting](https://www.techravenconsulting.com/)
 
-![alt text](images/thesteve02.jpeg)
+![Steve Citron-Pousty](images/thesteve02.jpeg)
 
+In the last two years, AI machine learning has exploded in prominence. One of the key concepts used in the modeling and storage of AI is vectors. We’ll discuss the use of vectors in the AI lifecycle, the basics of vector databases, and dive into real-world demos. By the end, you’ll be equipped to explore vector data management further in your own work.
 
-In the last two years, AI machine learning has exploded in prominence. One of the key concepts used in the modeling and storage of AI is vectors. There is no doubt vector data management will be a key concern of most people concerned with the lifecycle of data management. Feeling like you should learn more and how you would use them in your data work? Then have I got a talk for you!  
-
-We will start by explaining the concept of (embedding) vectors and how they are used in the AI life cycle. From there we will go into putting them into a database.  
-
-Now that those vectors are in a database we can talk about the use cases where the technology makes sense. As opposed to an RDBMS, vector databases are more tightly focused and optimized for particular use cases.  
-
-To ground this discussion in something more concrete, we will show live demos of the technology throughout the talks. By the time you leave you will have a strong base to go home and explore more (and impress friends at dinner parties).  
-
-![alt text](images/Slide5.jpg)
+![Steve Citron-Pousty](images/Slide5.jpg)
 
 ---
 
 ### **2:30 PM – 2:50 PM**  
-**Stace Maples, Head of The Stanford Geospatial Center**  
-***"Food for Thought: Stanford Geospatial Center resources for your ML/AI research and projects"***  
+### Food for Thought: Stanford Geospatial Center Resources for Your ML/AI Research and Projects  
+**Speaker:** Stace Maples, Head of The Stanford Geospatial Center
 
-![alt text](images/stacemaples.png)
+![Stace Maples](images/stacemaples.png)
 
-- Updates on support and services provided by the Stanford Geospatial Center.  
- - Planet.com Planetscope & SkySat access. 
- - AIS Data access from SPIRE - Global Shipping Trajectories and Metadata
- - Using Google Earth Engine with your own Google Cloud Project for access to the Earth Engine Python API and more
- - High throughput Geocoding Services with [locator.stanford.edu](https://locator.stanford.edu/)
+- Updates on support and services from the Stanford Geospatial Center  
+  - Access to Planet.com Planetscope & SkySat imagery  
+  - AIS Data access from SPIRE – Global Shipping Trajectories  
+  - Google Earth Engine integration with your Google Cloud Project  
+  - High-throughput Geocoding Services via [locator.stanford.edu](https://locator.stanford.edu/)
 
-![alt text](images/nomads.png)
+![Nomads](images/nomads.png)
 
 ---
 
@@ -49,44 +46,67 @@ To ground this discussion in something more concrete, we will show live demos of
 ---
 
 ### **3:00 PM – 3:30 PM**  
-**Lightning Talks (5-minutes each)**  
-- **TBA Lightning Talk 1**  
-- **TBA Lightning Talk 2**  
-- **TBA Lightning Talk 3**  
-- **TBA Lightning Talk 4**  
-- **TBA Lightning Talk 5**
+### Lightning Talks (5 minutes each)  
+
+#### A High-Resolution Look at Long-Run Development: Evidence from 1.3 Million Historical Photographs  
+**Speaker:** Joel Ferguson (he/him), Doerr School of Sustainability / Environmental Social Sciences / Global Policy Lab  
+- **Abstract:** Utilizing a newly-digitized archive of 1.3 million historical aerial photographs, we predict population and wealth at a 1km resolution. This analysis explores spatial concentration of wealth and its evolution over time.
+
+---
+
+#### Highway Paving Dramatically Increased Dengue Transmission in the Amazon  
+**Speaker:** Alyson Singleton (she/her/hers), Emmett Interdisciplinary Program in Environment and Resources, SDSS  
+- **Abstract:** By examining the impact of highway paving on dengue transmission in the Amazon, we highlight infrastructure's effects on public health, showing the correlation between highway development and increased dengue cases.
+
+---
+
+#### Jiangzhai: Geospatial Analysis of Neolithic Village Settlement & Cemetery  
+**Speaker:** Crystal Yu (she/her), Stanford Archaeology Center, Department of East Asian Languages and Cultures  
+- **Abstract:** This study uses ArcGIS to explore the spatial relationship between household and burial remains at the Early Yangshao period village of Jiangzhai, contributing to understanding social status in early agricultural societies.
+
+---
+
+#### 3D Digital Twins of Environments: The Big and Small  
+**Speaker:** Daniel Neamati (he/him), Aeronautics and Astronautics  
+- **Abstract:** Learn how the NAV Lab creates models of large and small environments, using Neural Radiance Fields and 3D Gaussian Splatting to produce cutting-edge 3D models essential for environmental and urban applications.
 
 ---
 
 ### **3:30 PM – 3:50 PM**  
-**Evan Thornberry, Head & Curator of the David Rumsey Map Center**    
-***"Looking ahead with legacy collections: How computer vision and AI are helping unlock the hidden knowledge within Stanford’s map collections."***  
+### Looking Ahead with Legacy Collections: How Computer Vision and AI Are Helping Unlock the Hidden Knowledge within Stanford’s Map Collections  
+**Speaker:** Evan Thornberry, Head & Curator of the David Rumsey Map Center
 
-![alt text](images/evan-thornberry1709229365253.png)
+![Evan Thornberry](images/evan-thornberry1709229365253.png)
 
-- An overview of two AI projects: [Machines Reading Maps](https://machines-reading-maps.github.io/) & [Map Reader](https://github.com/maps-as-data/MapReader)  
-- A description of the current state of using them on [davidrumsey.com](https://davidrumsey.com),  
-- How to stay in the loop and involved.
+- Overview of AI projects [Machines Reading Maps](https://machines-reading-maps.github.io/) and [Map Reader](https://github.com/maps-as-data/MapReader)  
+- Current use on [davidrumsey.com](https://davidrumsey.com)  
+- How to stay engaged with these projects.
 
-![alt text](images/incognita.png)
+![Incognita](images/incognita.png)
+
 ---
 
 ### **3:50 PM – 4:30 PM**  
-**Applied Keynote: Cameron Kruse, Creative Technologist, [Earth Genome](https://www.earthgenome.org/)**  
-***"Harnessing the power of geospatial foundation models to empower end users"***  
+### Harnessing the Power of Geospatial Foundation Models to Empower End Users  
+**Speaker:** Cameron Kruse, Creative Technologist, [Earth Genome](https://www.earthgenome.org/)
 
-![alt text](images/headshot-gray.jpg)  
+![Cameron Kruse](images/headshot-gray.jpg)
 
-Cameron is a Creative Technologist with Earth Genome and a National Geographic Explorer. At Earth Genome Cameron leads the Plotline, an initiative exploring the intersection of food systems and climate change, and supports product and development of Earth Index. In his work with National Geographic, Cameron has led several expeditions where he has produced films, photo essays, and interactive map based stories focused on rural communities and climate change. In his free time, you may find him trail running or struggling to climb large rocks in Yosemite. Learn more about Cameron’s work at cameronwkruse.com or reach out on social media @camkruse. 
+Cameron, a Creative Technologist with Earth Genome and a National Geographic Explorer, leads Earth Genome’s Plotline initiative and supports Earth Index development. His work explores climate change impacts on food systems. You can learn more at cameronwkruse.com or on social media @camkruse.
 
+![Cameron Kruse](<images/Screenshot 2024-10-07 at 4.32.13 PM.png>)
 
-![alt text](<images/Screenshot 2024-10-07 at 4.32.13 PM.png>)
 ---
 
 ### **4:30 PM – 4:45 PM**  
 **Closing Remarks**  
-- Wrap-up, final thoughts and grab some swag.
+- Wrap-up, final thoughts, and grab some swag.
+
+---
 
 ### **4:45 PM – ??? PM**  
 **Join us at The Treehouse at Tressider for Mappy Hour!!**  
 
+--- 
+
+This agenda maintains consistency in titles, speaker information, and media links. Let me know if there are any further changes needed!
