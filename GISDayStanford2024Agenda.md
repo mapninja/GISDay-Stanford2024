@@ -1,6 +1,4 @@
-Here’s the agenda with consistent formatting for titles, speaker details, and section headers:
 
----
 
 # GISDay@Stanford 2024
 ## (Tentative) Agenda & Schedule
@@ -109,4 +107,3 @@ Cameron, a Creative Technologist with Earth Genome and a National Geographic Exp
 
 --- 
 
-This agenda maintains consistency in titles, speaker information, and media links. Let me know if there are any further changes needed!
